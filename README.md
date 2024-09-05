@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambalait" alt="ambalait" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, bootstrap, vue js**
+- 🌱 We are Expert in **Laravel, bootstrap, vue js**
 
-- 👨‍💻 All of my projects are available at [ambalait.com](ambalait.com)
+- 👨‍💻 All of Our projects are available at [ambalait.com](ambalait.com)
 
-- 📝 I regularly write articles on [ambalablog.com](ambalablog.com)
+- 📝 WE regularly write articles on [ambalablog.com](ambalablog.com)
 
-- 💬 Ask me about **Laravel,Vue, Mysql, CyberSecurity, Server management, Networking**
+- 💬 Ask us about **Laravel,Vue, Mysql, CyberSecurity, Server management, Networking**
 
-- 📫 How to reach me **executive@ambalait.com**
+- 📫 How to reach us **executive@ambalait.com**
 
-- 📄 Know about my experiences [ambalait.com](ambalait.com)
+- 📄 Know about our experiences [ambalait.com](ambalait.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
